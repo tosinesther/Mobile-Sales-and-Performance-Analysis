@@ -31,7 +31,8 @@ Key Metrics
 - Total Revenue: 15M
 - Average Price: 785
 - Total Transaction: 366
-Monthly Trend
-Sales Trend Analysis
+#### Monthly Trend
+
+##### Sales Trend Analysis:
 The monthly trend chart compares total revenue and units sold throughout 2024, with noticeable peaks in January and December. These fluctuations suggest seasonal buying patterns, likely influenced by holiday sales and promotional periods. This visual enables stakeholders to identify high-demand months and align marketing and inventory strategies accordingly.
 

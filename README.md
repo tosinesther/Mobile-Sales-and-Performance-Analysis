@@ -1,3 +1,4 @@
+<img width="821" alt="onyx date" src="https://github.com/user-attachments/assets/9e05f3d9-ae53-46a0-9b13-5f37e9bbe9b1" />
 # Mobile-Sales-and-Performance-Analysis
 ## Project Overview
 #### This project provides a detailed performance analysis of mobile phone sales across multiple countries in 2024 for a multinational mobile retailer. It highlights key sales metrics such as revenue, units sold, customer demographics, and product preferences—centralizing insights to support strategic decisions in marketing, inventory management, and customer engagement.

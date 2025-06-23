@@ -16,4 +16,4 @@ By analyzing these dimensions, the report enables the business to:
 ## Tools and Data source
 - Tools: Power BI, Excel, SQL, DAX
 - Data Source: Sales data was provided by Onyx, a data project provider. This dataset contains 2024 transaction records from a multinational mobile phone retailer. It includes columns such as:Transaction Date, Mobile Brand & Model, Storage Size, Color, and Operating System, Units Sold and Total Revenue, Customer Age Group and Gender, Sales Channel (Online, Partner, In-store), Payment Type, Country and City.
-
+Date Table Creation: A custom date table was generated in Power BI using DAX measures to support time-based analysis. This table allows for tracking trends and patterns over time.

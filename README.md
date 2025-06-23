@@ -8,3 +8,9 @@ By analyzing these dimensions, the report enables the business to:
 -	Compare performance across sales channels (in-store, online, partner) and payment types
 -	Uncover regional pricing differences and seasonal sales patterns
 -	Align product offerings with market demand to increase profitability
+## Key features of the dashboard:
+-	Interactive visualizations
+-	Data-driven insights
+-	Customizable metrics
+-	User-friendly interface
+

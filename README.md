@@ -23,3 +23,12 @@ Date Table Creation: A custom date table was generated in Power BI using DAX mea
 
 ## Data Analysis
 ## Sales
+
+<img width="592" alt="onyx sales page" src="https://github.com/user-attachments/assets/1280c05a-5ca3-4a16-9e7f-3b0508b22992" />
+
+Key Metrics
+- Total Units sold: 19K
+- Total Revenue: 15M
+- Average Price: 785
+- Total Transaction: 366
+

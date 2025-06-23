@@ -46,7 +46,7 @@ The monthly trend chart compares total revenue and units sold across each month 
 - Apple and OnePlus also had multiple high-performing models in both units sold and revenue generated.
 ## Product Performmance Analysis
 
-##<img width="586" alt="onyx product page" src="https://github.com/user-attachments/assets/f0173a76-3062-4aea-aed8-e3aee54ebfec" />
+<img width="586" alt="onyx product page" src="https://github.com/user-attachments/assets/f0173a76-3062-4aea-aed8-e3aee54ebfec" />
 
 
 

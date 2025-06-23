@@ -44,6 +44,10 @@ The monthly trend chart compares total revenue and units sold across each month 
 #### Top-Selling Models & Brands:
 - Samsung Z Fold 6, Galaxy S25 Ultra, and Google Pixel 9 Pro led in total revenue.
 - Apple and OnePlus also had multiple high-performing models in both units sold and revenue generated.
+## Product Performmance Analysis
+
+##<img width="586" alt="onyx product page" src="https://github.com/user-attachments/assets/f0173a76-3062-4aea-aed8-e3aee54ebfec" />
+
 
 
 

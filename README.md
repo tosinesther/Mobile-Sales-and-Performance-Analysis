@@ -20,4 +20,5 @@ By analyzing these dimensions, the report enables the business to:
 Date Table Creation: A custom date table was generated in Power BI using DAX measures to support time-based analysis. This table allows for tracking trends and patterns over time.
 
 <img width="821" alt="onyx date" src="https://github.com/user-attachments/assets/9e05f3d9-ae53-46a0-9b13-5f37e9bbe9b1" />
+
 ## Data Analysis

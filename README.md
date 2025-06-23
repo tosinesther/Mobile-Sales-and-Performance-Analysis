@@ -22,3 +22,4 @@ Date Table Creation: A custom date table was generated in Power BI using DAX mea
 <img width="821" alt="onyx date" src="https://github.com/user-attachments/assets/9e05f3d9-ae53-46a0-9b13-5f37e9bbe9b1" />
 
 ## Data Analysis
+## Sales

@@ -33,6 +33,17 @@ Key Metrics
 - Total Transaction: 366
 #### Monthly Trend
 
-##### Sales Trend Analysis:
-The monthly trend chart compares total revenue and units sold throughout 2024, with noticeable peaks in January and December. These fluctuations suggest seasonal buying patterns, likely influenced by holiday sales and promotional periods. This visual enables stakeholders to identify high-demand months and align marketing and inventory strategies accordingly.
+##### Revenue Trend Analysis:
+The monthly trend chart compares total revenue and units sold across each month of 2024, with noticeable peaks in January and December. These fluctuations suggest seasonal buying patterns, likely influenced by holiday sales and promotional periods. This visual enables stakeholders to identify high-demand months and align marketing and inventory strategies accordingly.
+#### Sales Breakdown:
+- Storage Size: 64GB and 256GB devices were the most sold (6.3K units each), closely followed by 128GB.
+- Operating System: Android devices dominated with 14K+ units sold, while iOS accounted for 4.2K+ units.
+- Color Preferences: Black, White, and Blue phones were the most preferred by customers.
+#### Regional Sales Distribution:
+- The map visualizes sales distribution across India, Pakistan, Bangladesh, and Turkey, showing total revenue, units sold, and pricing trends per city and country.
+#### Top-Selling Models & Brands:
+- Samsung Z Fold 6, Galaxy S25 Ultra, and Google Pixel 9 Pro led in total revenue.
+- Apple and OnePlus also had multiple high-performing models in both units sold and revenue generated.
+
+
 

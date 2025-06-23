@@ -46,7 +46,26 @@ The monthly trend chart compares total revenue and units sold across each month 
 - Apple and OnePlus also had multiple high-performing models in both units sold and revenue generated.
 ## Product Performmance Analysis
 
-<img width="586" alt="onyx product page" src="https://github.com/user-attachments/assets/f0173a76-3062-4aea-aed8-e3aee54ebfec" />
+<img width="583" alt="ONYX PRODUCT 2" src="https://github.com/user-attachments/assets/1af0fb5e-6fc1-434f-bf06-6bbbf5d5f311" />
+
+## Key Insights
+#### Top Revenue-Generating Models
+- Z Fold 6, Galaxy S25 Ultra, and Pixel 9 Pro led in revenue, each generating over $1.2M.
+- Apple models like iPhone 15 Pro and iPhone 14 also performed well, contributing significantly to overall sales value.
+#### Brand Performance
+- Apple, Samsung, and OnePlus were the top three brands in terms of total revenue.
+- While Apple earned higher revenue per unit, Samsung and Google gained traction with higher total unit sales in specific models.
+#### Storage Size Revenue Breakdown
+- Devices with 128GB storage accounted for the highest revenue ($5.1M), followed closely by 256GB and 64GB.
+- This suggests strong customer preference for mid- to high-storage phones.
+#### Color Preferences
+- Black phones were the most purchased, followed by White, Blue, and Green, helping inform future product stocking decisions.
+#### OS Revenue Contribution
+- Android devices dominated in total revenue, outperforming iOS across all storage categories, indicating broader appeal or higher volume.
+#### Sales vs. Revenue by Brand
+- The scatter plot reveals that Apple and Samsung generate higher revenue with fewer units sold, implying premium pricing.
+- OnePlus and Xiaomi, however, rely on higher volume to achieve strong sales performance.
+
 
 
 

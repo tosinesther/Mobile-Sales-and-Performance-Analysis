@@ -1,4 +1,3 @@
-<img width="821" alt="onyx date" src="https://github.com/user-attachments/assets/9e05f3d9-ae53-46a0-9b13-5f37e9bbe9b1" />
 # Mobile-Sales-and-Performance-Analysis
 ## Project Overview
 #### This project provides a detailed performance analysis of mobile phone sales across multiple countries in 2024 for a multinational mobile retailer. It highlights key sales metrics such as revenue, units sold, customer demographics, and product preferences—centralizing insights to support strategic decisions in marketing, inventory management, and customer engagement.
@@ -19,3 +18,5 @@ By analyzing these dimensions, the report enables the business to:
 - Data Source: Sales data was provided by Onyx, a data project provider. This dataset contains 2024 transaction records from a multinational mobile phone retailer. It includes columns such as:Transaction Date, Mobile Brand & Model, Storage Size, Color, and Operating System, Units Sold and Total Revenue, Customer Age Group and Gender, Sales Channel (Online, Partner, In-store), Payment Type, Country and City.
   
 Date Table Creation: A custom date table was generated in Power BI using DAX measures to support time-based analysis. This table allows for tracking trends and patterns over time.
+
+<img width="821" alt="onyx date" src="https://github.com/user-attachments/assets/9e05f3d9-ae53-46a0-9b13-5f37e9bbe9b1" />

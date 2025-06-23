@@ -65,6 +65,36 @@ The monthly trend chart compares total revenue and units sold across each month 
 #### Sales vs. Revenue by Brand
 - The scatter plot reveals that Apple and Samsung generate higher revenue with fewer units sold, implying premium pricing.
 - OnePlus and Xiaomi, however, rely on higher volume to achieve strong sales performance.
+## Customer Demographic Analysis
+
+<img width="589" alt="onyx gender" src="https://github.com/user-attachments/assets/eedd0d4c-1f7f-44c9-89d8-6131ee032bac" />
+
+## Key Insights
+#### Revenue by Age Group
+- The 26–33 and 42–49 age groups are the highest spenders, generating over $3M and $3.1M respectively.
+- Customers aged 18–25 also show strong purchasing power, contributing $2.6M in revenue.
+#### Revenue by Gender
+- Female customers lead with $7.2M in total revenue, followed by Male users at $6.1M.
+- Other/Unspecified users contributed around $1.2M, showing inclusion across all groups.
+#### Payment Preferences
+- EMI (Equated Monthly Installments) is the most used payment method (26.78%), indicating a strong interest in flexible payment plans.
+- Other common options include Cash (265.68 transactions), UPI (21.86%), and Credit Card (21.65%).
+#### Brand Preference by Age Group
+- Apple and Samsung are most popular among users aged 26–41.
+- Younger users (18–25) tend to favor OnePlus and Google, while older age groups lean slightly more toward Xiaomi and Samsung.
+#### Revenue by Gender and Brand
+- Female customers spend most on Apple, followed by Samsung and OnePlus.
+- Male users also prefer Apple but with closer brand distribution across Samsung, OnePlus, and Google.
+#### Revenue by Gender and Age Group
+- Among all age and gender segments, females aged 34–41 and males aged 26–33 generated the highest revenue, suggesting key target markets for campaign strategies.
+## Summary
+The Mobile Sales and Performance Dashboard provides a comprehensive view of mobile sales across multiple countries, covering key metrics such as total units sold, revenue generated, average prices, and transaction volumes. It enables the team to monitor trends over time, evaluate product performance, and identify top-selling models and brands.
+Through detailed visualizations by storage size, operating system, color, region, and city, the dashboard uncovers purchasing patterns and revenue distribution. Additional customer demographic insights — including age group, gender, and preferred payment methods — help the business better understand its target audience and tailor marketing or inventory strategies accordingly.
+This report supports strategic decision-making across sales, marketing, and supply chain planning by delivering actionable insights in a unified, interactive format.
+
+
+
+
 
 
 
